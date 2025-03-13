@@ -54,7 +54,7 @@ while True:
     print("[2] Selecionar Conta")
     print("[3] Depósito")
     print("[4] Saque")
-    print("[5] Dados da Conta")
+    print("[5] Dados da Conta") #senha 123
     print("[6] Encerrar")
 
     opcao = int(input("O que gostaria de fazer? "))
